@@ -1,7 +1,7 @@
 {
   "name": "rd-challenges",
   "version": "1.0.0",
-  "main": "customer-success-balancing.js",
+  "main": "cs_balancing.js",
   "private": true,
   "scripts": {
     "test": "jest"

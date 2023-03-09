@@ -72,17 +72,4 @@ Para este exemplo o retorno deve ser `1`, que é o id do CS que atende 4 cliente
 1
 ```
 ## Choose your weapon:
-Nós vamos aceitar o teste em qualquer uma das linguagens abaixo.
-### Testes já implementados
-- [Ruby](ruby/README.md) 
 - [JavaScript](javascript/README.md)
-- [Java](java/README.md)
-- [Go](go/README.md)
-- 
-### Você precisa implementar os testes
-- C#
-- Python
-  
-
-## Download
-Você pode fazer o download do desafio aqui para as linguagens que já tem o teste implementado: [Link](./challenge.zip)
